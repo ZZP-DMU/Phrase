@@ -4,7 +4,7 @@
 
 |phrase|chinese|
 | :----: | :----: |
-|plunged through the atmosphere | 坠入大气|
+|plunge through the atmosphere | 坠入大气|
 |cast a spell|施法|
 |the mission's root stretch back to 1999|这项任务的历史可以追溯到 1999 年|
 |turn telescope to the asteroid belt|将望远镜转向小行星带|
