@@ -2,7 +2,7 @@
 
 ## 2023.9.25
 
-|phrase|chinese|
+|Phrase|Chinese|
 | :----: | :----: |
 |plunge through the atmosphere | 坠入大气|
 |cast a spell|施法|
@@ -12,4 +12,9 @@
 |ground-breaking|开创性|
 |Empire State Building|帝国大厦|
 
+
+# 2023.9.26
+|Phrase|Chinese|
+| :----: | :----: |
+|take office|上任|
 
