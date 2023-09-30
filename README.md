@@ -18,3 +18,13 @@
 | :----: | :----: |
 |take office|上任|
 
+
+## 2023.9.30
+|Phrase|Chinese|
+| :---: | :---: |
+|as well as| 也|
+|look ahead|展望未来|
+|sought-after item|备受追捧的物品；抢手货|
+|i.e.|即|
+|build upon|依托|
+|grown-up|大人|

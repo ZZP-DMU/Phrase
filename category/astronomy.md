@@ -1,5 +1,7 @@
 # Astronomy 天文
 
+## Universe
+
 ## Galaxy 星系
 |Galaxy|Chinese|
 | :---: | :---: |
@@ -24,6 +26,7 @@
 |Moon/Luna|satellite|月球|
 |Halley's Comet|comet|哈雷彗星|
 |meteor|*|流星|
+|*|asteroid|小行星|
 
 ## Astronomical phenomena
 |Phenomenon|Chinese|
