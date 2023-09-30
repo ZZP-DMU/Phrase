@@ -23,9 +23,10 @@
 |Neptune|planet|海王星|
 |Moon/Luna|satellite|月球|
 |Halley's Comet|comet|哈雷彗星|
+|meteor|*|流星|
 
 ## Astronomical phenomena
-|Phenomena|Chinese|
+|Phenomenon|Chinese|
 | :---: | :---: |
 |sunrise|日出|
 |sunset|日落|
@@ -34,3 +35,15 @@
 |Polar day|极昼|
 |Polar night|极夜|
 |Aurora|极光|
+
+## Time
+|Chinese|Words & Phrase|
+| :---: | :---: |
+|凌晨|in the small hours of (some day)/before dawn|
+|黎明|(at) dawn/first light/cockcrow/(by) daybreak|
+|早晨|(in the) morning|
+|上午|forenoon|
+|中午|(at) noon/midday|
+|下午|(in the) afternoon|
+|傍晚|(at) nightfall/dusk|
+|晚上|(in the) evening/(at) night|
