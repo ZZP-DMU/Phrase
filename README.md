@@ -13,7 +13,7 @@
 |Empire State Building|帝国大厦|
 
 
-# 2023.9.26
+## 2023.9.26
 |Phrase|Chinese|
 | :----: | :----: |
 |take office|上任|
