@@ -28,3 +28,8 @@
 |i.e.|即|
 |build upon|依托|
 |grown-up|大人|
+
+## 2023.10.2
+|Phrase|Chinese|
+| :---: | :---: |
+|aesthetic appeal|美感|
