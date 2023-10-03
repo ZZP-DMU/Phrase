@@ -34,6 +34,7 @@
 |Williams|威廉姆斯|
 |Taylor|泰勒|
 |Davies|戴维斯|
+|Euler|欧拉|
 
 ## Addressing Others
 |Title|Chinese|
