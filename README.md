@@ -40,6 +40,6 @@
 |defending champion|卫冕冠军|
 |claim the table tennis title|获得乒乓球赛冠军|
 |win the title|赢得冠军|
-|nerver-wracking|令人紧张的|
+|nerve-wracking|令人紧张的|
 |stage a comeback|卷土重来|
 |pair with|和……配对|
