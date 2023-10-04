@@ -43,3 +43,13 @@
 |nerve-wracking|令人紧张的|
 |stage a comeback|卷土重来|
 |pair with|和……配对|
+
+## 2023.10.4
+|Phrase|Chinese|
+| :---: | :---: |
+|before embarking on the trip to China|开始着手中国之旅前|
+|traveling in high-speed railway|乘坐高铁|
+|state-of-the-art|最先进的|
+|rich history & diverse culture|丰富的历史和多元文化|
+|Belt and Road Initiative|一带一路倡议|
+|energy crisis|能源危机|
