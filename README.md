@@ -42,7 +42,7 @@
 |win the title|赢得冠军|
 |nerve-wracking|令人紧张的|
 |stage a comeback|卷土重来|
-|pair with|和……配对|
+|pair sth. up with sth.|和……配对|
 
 ## 2023.10.4
 |Phrase|Chinese|
