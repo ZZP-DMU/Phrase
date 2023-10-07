@@ -11,6 +11,17 @@
 |Large/Small Magellanic Cloud|大/小麦哲伦云|
 |……|……|
 
+## Constellation
+|Constellation|Chinese|
+| :---: | :---: |
+|Andromeda|仙女座|
+|Perseus|英仙座|
+|Sagittarius|射手座|
+|Scorpio or Scorpius|天蝎座|
+|sign of the zodiac|黄道十二宫|
+|……|……|
+
+
 ## Solar System 太阳系
 |celestial bod|type|chinese|
 | :---: | :---: | :---: |

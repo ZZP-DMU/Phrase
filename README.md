@@ -53,3 +53,9 @@
 |rich history & diverse culture|丰富的历史和多元文化|
 |Belt and Road Initiative|一带一路倡议|
 |energy crisis|能源危机|
+
+## 2023.10.7
+|Phrase|Chinese|
+| :---: | :---: |
+|blaste into orbit|射入轨道|
+|lift off|起飞|
