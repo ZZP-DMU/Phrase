@@ -59,3 +59,13 @@
 | :---: | :---: |
 |blaste into orbit|射入轨道|
 |lift off|起飞|
+
+## 2023.10.10
+|Phrase|Chinese|
+| :---: | :---: |
+|rise above|超越|
+|be committed to openness, inclusiveness and win-win cooperation|致力于开发包容双赢的合作|
+|at a press conference|在新闻发布会上|
+|30-plus|三十多个|
+|the circle of friends|朋友圈|
+|the Global Community of Shared Future|全球命运共同体|
