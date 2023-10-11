@@ -69,3 +69,8 @@
 |30-plus|三十多个|
 |the circle of friends|朋友圈|
 |the Global Community of Shared Future|全球命运共同体|
+
+## 2023.10.11
+|Phrase|Chinese|
+| :---: | :---: |
+|along with|与|
