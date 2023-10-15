@@ -74,3 +74,8 @@
 |Phrase|Chinese|
 | :---: | :---: |
 |along with|与|
+
+## 2023.10.15
+|Phrase|Chinese|
+| :---: | :---: |
+|more often than not|更多的时候|
