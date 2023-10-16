@@ -75,7 +75,18 @@
 | :---: | :---: |
 |along with|与|
 
+<<<<<<< HEAD
+## 2023.10.16
+|Phrase|Chinese|
+| :---: | :---: |
+|by contrast|相比之下|
+|be set by sth.|由sth.决定|
+|and alternatively|或者|
+|come down to|归结为|
+|by convention|按照惯例|
+=======
 ## 2023.10.15
 |Phrase|Chinese|
 | :---: | :---: |
 |more often than not|更多的时候|
+>>>>>>> f5c8dbe0982c2f43ff8cad0c460443d601d810f7
