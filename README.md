@@ -89,6 +89,9 @@
 |come down to|归结为|
 |by convention|按照惯例|
 
-
-
-
+## 2023.10.17
+|Phrase|Chinese|
+| :---: | :---: |
+|consequently|因此|
+|oftentimes|通常|
+|or another way arround|或者另一种方式|

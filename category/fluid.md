@@ -71,3 +71,16 @@ Cartesion coordinate system|笛卡尔坐标系|
 |control volume/surface|控制体/面|
 |del operator |nabla算子|
 |minus|减，负|
+|number of molar|摩尔数|
+|joule|焦耳|
+|joule over Kelvin molar|J/K·mol|
+|A be identical/equal to B|A等于B|
+|pressure variation|压力变化|
+|perturb|扰动，干扰|
+|perturbation|扰动|
+|analogy|类比|
+|no inclination|没有倾向|
+|a neutral equilibrium point|中性平衡点|
+|a small increase|小增量|
+|exponential of A|A的指数形式|
+|Z prime|Z'|
