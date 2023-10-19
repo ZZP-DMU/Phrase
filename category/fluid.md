@@ -84,3 +84,31 @@ Cartesion coordinate system|笛卡尔坐标系|
 |a small increase|小增量|
 |exponential of A|A的指数形式|
 |Z prime|Z'|
+|the continuum hypothesis|连续体假说|
+|a material point/particle|质点|
+|molecular nature|分子性质|
+|nanoscale fluctuation|纳米级别的波动|
+|10 to the minus 18 meters cubed|10的负18次方立方米|
+|R bar|$\bar{R}$|
+|2 meters cube = 8 cubic meters = 8 meters cubed|8立方米|
+|deformation|变形|
+|continually differentiable field variable|连续可微的场量|
+|inverse function|反函数|
+|laboratory environment|实验室环境|
+|the material derivative|物质(实质)导数|
+|Eulerian/Lagrangian reference frame|欧拉/拉格朗日参考系|
+|partial derivative|偏导数|
+|equivalent|等价|
+|differential operator|微分算子|
+|advective term/convective term|平流项/对流项|
+|Kroneker delta|克罗内科delta|
+|continuous field variable|连续常变量|
+|order of magnitude|数量级|
+|exert a friction on sth.|对sth.施加摩擦|
+|kinematic viscosity|运动粘度|
+|dynamic viscosity|动态粘度|
+|momentum diffusivity|动量扩散率[$ m^2/s $]|
+|conductivity|电导率|
+|the coefficient of thermal expansion|热膨胀系数|
+|displacement|位移|
+|Eulerian/Lagrangian description|欧拉/拉格朗日表示|
