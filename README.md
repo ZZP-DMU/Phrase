@@ -95,3 +95,8 @@
 |consequently|因此|
 |oftentimes|通常|
 |or another way arround|或者另一种方式|
+
+## 2023.10.19
+|Phrase|Chinese|
+| :---: | :---: |
+|in turn |反过来|
