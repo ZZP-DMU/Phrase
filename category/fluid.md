@@ -54,7 +54,7 @@
 |constant|常数|
 |K Kelvin|开 开尔文|
 |tension force|张力|
-Cartesion coordinate system|笛卡尔坐标系|
+|Cartesion coordinate system|笛卡尔坐标系|
 |let sth. perturbate a bit|让sth.受到轻微扰动|
 |equation of motion|运动方程|
 |rigid body motion|刚体运动|
@@ -112,3 +112,19 @@ Cartesion coordinate system|笛卡尔坐标系|
 |the coefficient of thermal expansion|热膨胀系数|
 |displacement|位移|
 |Eulerian/Lagrangian description|欧拉/拉格朗日表示|
+|streamline|流线|
+|pathline|迹线|
+|streakline|脉线|
+|tangent to |与……相切|
+|steady flows|定常流动|
+|steady two dimensional flows|定常二维流动|
+|stream functional|流函数|
+|psi|$ \psi $|
+|stream tube|流管|
+|normal component|垂直分量|
+|flow rate|流量|
+|imcompressible flows|不可压流动|
+|subsitute in |代入|
+|time-varying|时变的|
+|centripetal acceleration|向心加速度|
+|polar coordinates|极坐标|
