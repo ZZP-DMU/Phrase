@@ -100,3 +100,8 @@
 |Phrase|Chinese|
 | :---: | :---: |
 |in turn |反过来|
+
+## 2023.10.25
+|Phrase|Chinese|
+| :---: | :---: |
+|from time to time|时不时地|

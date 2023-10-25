@@ -35,6 +35,7 @@
 |Taylor|泰勒|
 |Davies|戴维斯|
 |Euler|欧拉|
+|Euclid|欧几里得|
 
 ## Addressing Others
 |Title|Chinese|
