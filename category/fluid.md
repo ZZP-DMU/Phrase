@@ -128,3 +128,17 @@
 |time-varying|时变的|
 |centripetal acceleration|向心加速度|
 |polar coordinates|极坐标|
+|decompose|分解(公式)|
+|translation|平移运动|
+|rotation|旋转运动|
+|deformation|变形运动|
+|extensional strains|拉伸应变|
+|rotation strains|剪切应变|
+|kinematics of deformation|变形运动学|
+|dot product|点积|
+|second-rank tensor|二阶张量|
+|cancel with sth.|消去sth.|
+|chain rule|链式法则|
+|matrix form|矩阵形式|
+|symmetric tensor|对称张量|
+|anti-symmetric tensor|反对称张量|
