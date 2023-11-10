@@ -74,7 +74,8 @@
 |facility|设施(小)|
 |accommodation|住宿，食宿|
 |capsule|舱，胶囊|
-|chamber|舱室|
+|chamber|舱室,宫殿|
+|compartment|舱室|
 |hatch|舱门|
 |hatch-back|两厢车|
 |sedan|三厢车|
@@ -94,4 +95,41 @@
 |evacuation|撤离|
 |circumstance|情况|
 |module design|模块化设计|
-|umbilical|脐带缆|bu
+|umbilical|脐带缆|
+|IMRDR|Introduction+Methods+Results+Discussion+Reference|
+|Thesis|主旨，毕设，论点|
+|position|立场|
+|foster sb.'s skills|提升sb.的技能|
+|fire-proof|防火|
+|water-tight|水密|
+|tether|系绳|
+|unoccupied/unmanned|无人的|
+|maneuverable|可操作的，操纵性的|
+|maneuver|动作，操纵,机动|
+|hydraulic|水的，液压的|
+|extraction|开采(油)|
+|mining|采矿(石)|
+|parasite|寄生虫|
+|host|宿主，上位机，主人|
+|client|下位机|
+|neutral|中性的|
+|splash zone|入水点|
+|cutlet|肉片|
+|torpedo|鱼雷|
+|munition|弹药，子弹，炮弹，鱼雷|
+|compensationn|补偿|
+|attitudinally|状态的，态度的|
+|recession|萧条|
+|chassis|地盘，底架|
+|sophistication|复杂度|
+|frame|机架|
+|synthesis|合成的|
+|LiDAR|激光雷达|
+|hydrographic|水文的|
+|beacon|信标|
+|acoustic|声音的|
+|manipulator/end effector|机械手|
+|skid|滑道|
+|degree of freedom|自由度|
+
+
