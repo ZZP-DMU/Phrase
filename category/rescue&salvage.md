@@ -102,6 +102,8 @@
 |foster sb.'s skills|提升sb.的技能|
 |fire-proof|防火|
 |water-tight|水密|
+|airtight|气密|
+|insulate|绝缘的|
 |tether|系绳|
 |unoccupied/unmanned|无人的|
 |maneuverable|可操作的，操纵性的|
@@ -131,5 +133,49 @@
 |manipulator/end effector|机械手|
 |skid|滑道|
 |degree of freedom|自由度|
+|rigid|(物理上的,整体上的)坚硬|
+|hard|表面上的坚硬|
+|stiff|(人的)坚硬｜
+|tender|运输小艇，供应船|
+|farry|运货，海运|
+|proactive|主动的，先发制人的|
+|nitrogen|氮气|
+|break free of|挣脱，逃离|
+|roofless|敞篷的|
+|speachless|无语的|
+|collapsible|可折叠的|
+|collapse|折叠，身体垮掉|
+|heavy-duty|重载的，重型的|
+|4 by 4|四驱车|
+|periodiclal|周期性的，期刊|
+|regulation|规定|
+|inspect|检查|
+|merchant vessel|商船|
+|freefall|自由落体|
+|slipway|滑道|
+|impact|冲击|
+|reliability|可靠性|
+|sprinkler system|消防系统|
+|flaming|燃烧的，可燃的|
+|flammable|可燃的|
+|failsafe|防故障|
+|fiberflass|玻璃纤维|
+|incorporate|应用,采用|
+|drill|钻头，演练|
+|substitution|代替|
+|double|代替|
+|search and rescue|SAR搜救|
+|provision|提供|
+|in distress|遇险，遇难|
+|terrain|地面|
+|specialty|专长|
+|hoist/wench|吊车|
+|amphibious|两栖的|
+|sub-fields|子领域，子项|
+|immeinent|马上，即将的|
+|aviation|航空的|
+|aviator|飞行家|
+|beacon|信标|
+|segment|分部，部门|
 
 
