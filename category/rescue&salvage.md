@@ -76,6 +76,7 @@
 |capsule|舱，胶囊|
 |chamber|舱室,宫殿|
 |compartment|舱室|
+|cabin|(无舱室的)的船舱|
 |hatch|舱门|
 |hatch-back|两厢车|
 |sedan|三厢车|
@@ -177,5 +178,62 @@
 |aviator|飞行家|
 |beacon|信标|
 |segment|分部，部门|
-
-
+|cruise ship|游轮|
+|subsidiary|子公司|
+|carnival|嘉年华|
+|collision|碰撞|
+|collider|对撞机|
+|submerged|水下的|
+|capsize|倾覆|
+|subsequently|随后的|
+|port|右舷|
+|starboard|左舷|
+|scrapping operation|解体作业|
+|scrap/dismental|解体|
+|call sign|呼号|
+|reef|礁石|
+|mediterranean sea|地中海|
+|contact|接触，联系，联系人|
+|drowned|淹死|
+|unidentified|不明身份的，做好事不留姓名的|
+|black-out|停电|
+|spooked|(突然的)惊吓的|
+|scared|(对已知事物)惊吓的|
+|panicked|受惊吓的|
+|life jacket|救生衣|
+|cabin|船舱|
+|evacuation drill|逃生演习|
+|embark|登船，等车，登机|
+|disembark|下船，下车，下飞机|
+|pluck|拔(萝卜)|
+|airlift|直升机起吊|
+|perch on ledge|坐滩，搁浅|
+|drift|飘逸|
+|torch|火把|
+|zig-zag|曲折的|
+|mattress|床垫，席梦思床垫|
+|sanctuary|保护区|
+|mammal|哺乳动物|
+|island resident|岛上居民，岛民|
+|eyesore|难看的东西|
+|2007|twenty o sevent|
+|total loss/totaled|全损|
+|continuing|持续的(无终点的)|
+|continuous|连续的(有起止的)|
+|strike|(重的)打击|
+|hit|(轻的)打击|
+|ram|冲撞|
+|death toll|遇难人数|
+|toll gate|收费站|
+|ecological disastor|生态灾难|
+|hull|船壳|
+|leach|吸血,蚂蝗|
+|coating|涂层|
+|abrasive coating|磨料，涂层|
+|dice|骰子|
+|toss a dice|投掷骰子|
+|bolted|钉上去|
+|pulleys|滑轮组|
+|winch|绞车|
+|parbuckle||
+|ridge|山脊|
