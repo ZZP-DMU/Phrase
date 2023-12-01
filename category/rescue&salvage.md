@@ -237,3 +237,56 @@
 |winch|绞车|
 |parbuckle||
 |ridge|山脊|
+|strand jack|液压千斤顶|
+|in progress/under way|在进行中|
+|first officer/mate|大副|
+|manslaughter|杀人|
+|MV motor vessel|内燃机船|
+|dilapidated|残破的，破旧的|
+|undergo/experience|经历|
+|tonnage|吨位|
+|center of gravity|重心|
+|center of buoyancy|浮心|
+|inbalance|失稳|
+|inclining test|侧倾实验|
+|incline to sb./sth.|倾向某人/事|
+|ballast|压舱物，压舱水|
+|falsified documents|伪造文件|
+|consult with|征询意见|
+|marble|大理石|
+|visibility|能见度|
+|field trip/factory visit|实习|
+|third mate|三副|
+|helmsman|舵手|
+|rudder|舵|
+|rubber|橡胶|
+|list to port|向左舷倾斜|
+|restoring force|恢复力|
+|intercom|内部通讯|
+|stay put|原地待好|
+|knot|节，海里每小时|
+|gross|总的|
+|consortium|集团，共同体|
+|undertaking|事业，工程|
+|stell beam|钢梁|
+|state-run/state-owned|国营|
+|phase|阶段，……相|
+|solid\liquid\gas\plasma-phase|固、液、气、等离子相|
+|feasibility\valid\doable|可行的|
+|ashore|上岸|
+|aground|搁浅|
+|culpability|罪责|
+|culprit/criminal|罪人，犯人|
+|multibeam|多波束|
+|boundary|边界，地界|
+|terriorial water|水域|
+|plow|犁|
+|traction|牵引力|
+|drag|拖|
+|back and forth|来来回回|
+|incline|上坡|
+|decent|下坡|
+|recon|侦查，探查|
+|keel|龙骨(船的)|
+|barge|驳船|
+

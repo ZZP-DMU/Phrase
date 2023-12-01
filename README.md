@@ -105,3 +105,9 @@
 |Phrase|Chinese|
 | :---: | :---: |
 |from time to time|时不时地|
+
+## 2023.11.30
+|Phrase|Chinese|
+| :---: | :---: |
+|vice versa|反之亦然|
+
